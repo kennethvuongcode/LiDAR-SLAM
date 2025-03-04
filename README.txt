@@ -11,4 +11,4 @@ The main concepts implemented in this project are:
 
 You may find all relevant code in this repository, please ensure you have the proper libraries installed. An easy way to accomplish this is through Conda.
 
-A paper describing my implementation and results can be found in the "LiDAR Based SLAM for Differential Drive Robots" pdf. Thank you! 
+A paper describing the equipment used, my implementation, and results can be found in the "LiDAR Based SLAM for Differential Drive Robots" pdf. Thank you! 
